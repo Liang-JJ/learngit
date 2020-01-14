@@ -1,0 +1,1 @@
+FROM docker pull gcr.io/google-containers/kube-scheduler-amd64:v1.18.0-alpha.1
